@@ -1,0 +1,14 @@
+debug/main.o
+debug/mainwindow.o
+debug/servermonitor.o
+debug/metriccardwidget.o
+debug/eventlogwidget.o
+debug/statusbadge.o
+debug/sparklinewidget.o
+debug/qrc_resources.o
+debug/moc_mainwindow.o
+debug/moc_servermonitor.o
+debug/moc_metriccardwidget.o
+debug/moc_eventlogwidget.o
+debug/moc_statusbadge.o
+debug/moc_sparklinewidget.o

@@ -1,0 +1,14 @@
+release/main.o
+release/mainwindow.o
+release/servermonitor.o
+release/metriccardwidget.o
+release/eventlogwidget.o
+release/statusbadge.o
+release/sparklinewidget.o
+release/qrc_resources.o
+release/moc_mainwindow.o
+release/moc_servermonitor.o
+release/moc_metriccardwidget.o
+release/moc_eventlogwidget.o
+release/moc_statusbadge.o
+release/moc_sparklinewidget.o
